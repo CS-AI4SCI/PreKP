@@ -1,6 +1,6 @@
 # PreKP
 ## Model framework
-[fig_abstract.pdf](https://github.com/user-attachments/files/21404016/fig_abstract.pdf)
+![fig_abstract.pdf](https://github.com/user-attachments/files/21404016/fig_abstract.pdf)
 
 
 ## Unbiased dataset distribution
