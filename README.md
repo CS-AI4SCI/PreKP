@@ -4,8 +4,7 @@
 
 
 ## Unbiased dataset distribution
-
-![截屏2024-12-23 14 07 07](https://github.com/user-attachments/assets/5632aa5f-0f5e-48a5-8f1d-17e011dbbd8b)
+![fig_distribution.pdf](https://github.com/user-attachments/files/21404082/fig_distribution.pdf)
 
 
 # Description
