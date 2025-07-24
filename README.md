@@ -1,6 +1,7 @@
 # PreKP
 ## Model framework
-![截屏2024-12-23 14 26 46](https://github.com/user-attachments/assets/04905021-0977-4251-8237-969f34cad6df)
+[fig_abstract.pdf](https://github.com/user-attachments/files/21404016/fig_abstract.pdf)
+
 
 ## Unbiased dataset distribution
 
